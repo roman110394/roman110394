@@ -1,27 +1,58 @@
-# Привет, я Роман 👋
+<h1 align="center">Привет, я Роман 👋</h1>
 
-IT-инженер: Windows-инфраструктура, сети, NAS. Автоматизирую то, что
-надоедает делать руками — от контекстного меню Проводника до Telegram-ботов.
+<p align="center">
+  <b>IT-инженер</b> — Windows-инфраструктура · сети · NAS
+</p>
+
+<p align="center">
+  Автоматизирую то, что надоедает делать руками:<br>
+  от контекстного меню Проводника до Telegram-ботов и собственных серверов.
+</p>
+
+---
+
+## 💼 Чем занимаюсь
+
+- 🖥 **Инфраструктура** — Windows Server, Active Directory, MikroTik, Synology NAS
+- ⚙️ **Автоматизация** — PowerShell, десктопные утилиты, Telegram-боты
+- 🚀 **Пет-проекты** — игры, веб-приложения, self-hosted сервисы
+- 🔭 **Сейчас пилю** — SynologyLink: общие ссылки NAS в два клика из Проводника
 
 ## 🔨 Проекты
 
-| Проект | Что это | Стек |
-|---|---|---|
-| 🔗 **SynologyLink** | Общие ссылки Synology NAS из контекстного меню Проводника | .NET 8 · WPF · WiX |
-| 🎮 [NumMatch](https://github.com/roman110394/NumMatch) | Тренажёр внимательности — Telegram Mini App с мировым топом · [▶️ играть](https://t.me/nummatchbot/game?startapp=ref_190474765) | React · Node.js · PostgreSQL |
-| 🕶 [matrix-quest](https://github.com/roman110394/matrix-quest) | Игровой квест по развёртыванию своего Matrix-сервера | React · TypeScript |
-| 💧 [ophtaplan](https://github.com/roman110394/ophtaplan) | Печатная схема закапывания глазных капель для пациента | HTML/CSS/JS |
-| 🛠 [it-requests](https://github.com/roman110394/it-requests) | Telegram-бот приёма заявок в IT-поддержку | Python · FastAPI |
+| Проект | Что это | Стек | Демо |
+|---|---|---|---|
+| 🔗 **SynologyLink** | Общие ссылки Synology NAS из контекстного меню Проводника, без Drive Client | .NET 8 · WPF · WiX | — |
+| 🎮 [NumMatch](https://github.com/roman110394/NumMatch) | Тренажёр внимательности — Telegram Mini App: скорость, ачивки, мировой топ | React · Node.js · PostgreSQL | [▶️ играть](https://t.me/nummatchbot/game?startapp=ref_190474765) |
+| 🕶 [matrix-quest](https://github.com/roman110394/matrix-quest) | Игровой квест по развёртыванию своего Matrix-сервера: Synapse, федерация, мосты | React · TypeScript | [🌐 открыть](https://matrix-quest.onrender.com) |
+| 💧 [ophtaplan](https://github.com/roman110394/ophtaplan) | Схема закапывания глазных капель — печатный план для пациента | HTML/CSS/JS | [🌐 открыть](https://ophthaplan.netlify.app) |
+| 🛠 [it-requests](https://github.com/roman110394/it-requests) | Telegram-бот приёма заявок в IT-поддержку: тикеты и статусы | Python · FastAPI | — |
 
 ## 🧰 Стек
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%208-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?logoColor=white)
-![Synology](https://img.shields.io/badge/Synology-B5B5B6?logo=synology&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
+  <img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=black" alt="Synology">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
+</p>
+
+## 📊 Статистика
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=roman110394&show_icons=true&theme=tokyonight&locale=ru&count_private=true&hide_border=true" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman110394&layout=compact&theme=tokyonight&locale=ru&hide_border=true" height="165" alt="Top languages">
+</p>

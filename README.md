@@ -8,7 +8,7 @@ IT-инженер: Windows-инфраструктура, сети, NAS. Авто
 | Проект | Что это | Стек |
 |---|---|---|
 | 🔗 **SynologyLink** | Общие ссылки Synology NAS из контекстного меню Проводника | .NET 8 · WPF · WiX |
-| 🎮 [NumMatch](https://github.com/roman110394/NumMatch) | Тренажёр внимательности — Telegram Mini App с мировым топом | React · Node.js · PostgreSQL |
+| 🎮 [NumMatch](https://github.com/roman110394/NumMatch) | Тренажёр внимательности — Telegram Mini App с мировым топом · [▶️ играть](https://t.me/nummatchbot/game?startapp=ref_190474765) | React · Node.js · PostgreSQL |
 | 🕶 [matrix-quest](https://github.com/roman110394/matrix-quest) | Интерактивный квест по основам Linux и SSH | React · TypeScript |
 | 💧 [ophtaplan](https://github.com/roman110394/ophtaplan) | Печатная схема закапывания глазных капель для пациента | HTML/CSS/JS |
 | 🛠 [it-requests](https://github.com/roman110394/it-requests) | Telegram-бот приёма заявок в IT-поддержку | Python · FastAPI |

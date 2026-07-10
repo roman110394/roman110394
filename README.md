@@ -26,6 +26,7 @@
 | 🎮 [NumMatch](https://github.com/roman110394/NumMatch) | Тренажёр внимательности — Telegram Mini App: скорость, ачивки, мировой топ | React · Node.js · PostgreSQL | [▶️ играть](https://t.me/nummatchbot/game?startapp=ref_190474765) |
 | 🕶 [matrix-quest](https://github.com/roman110394/matrix-quest) | Игровой квест по развёртыванию своего Matrix-сервера: Synapse, федерация, мосты | React · TypeScript | [🌐 открыть](https://matrix-quest.onrender.com) |
 | 💧 [ophtaplan](https://github.com/roman110394/ophtaplan) | Схема закапывания глазных капель — печатный план для пациента | HTML/CSS/JS | [🌐 открыть](https://ophthaplan.netlify.app) |
+| 🧰 [powershell-toolbox](https://github.com/roman110394/powershell-toolbox) | Рабочие скрипты сисадмина: сканер сети, импорт в AD, мониторинг с Telegram-алертами | PowerShell | — |
 | 🛠 [it-requests](https://github.com/roman110394/it-requests) | Telegram-бот приёма заявок в IT-поддержку: тикеты и статусы | Python · FastAPI | — |
 
 ## 🧰 Стек

@@ -49,10 +49,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
 </p>
-
-## 📊 Статистика
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=roman110394&show_icons=true&theme=tokyonight&locale=ru&count_private=true&hide_border=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman110394&layout=compact&theme=tokyonight&locale=ru&hide_border=true" height="165" alt="Top languages">
-</p>
